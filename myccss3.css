@@ -1,0 +1,4 @@
+	div {
+    -webkit-transition: width 2s, height 4s; /* Safari */
+    transition: width 2s, height 4s;
+         }
